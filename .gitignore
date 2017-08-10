@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.db
+*.exe
+*.csv
+*.xlsx
+/spreadsheets/
+spreadsheets/
