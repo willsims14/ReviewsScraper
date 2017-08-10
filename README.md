@@ -1,2 +1,5 @@
-# ReviewsScraper
-Scrapes company reviews from admin panel and formats them into a CSV file.
+# Reviews Scraper
+
+### About
+Scrapes customer reviews from admin panel of company website and then formats them into a CSV file.
+
